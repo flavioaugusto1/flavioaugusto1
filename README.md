@@ -3,7 +3,7 @@
 ## 🧑‍💻 Sobre mim
   - Hoje trabalho como Analista de Suporte Computacional para uma empresa de atendimento Omnichannel
   - Estou estudando HTML, CSS e JavaScript
-  - Irei me especializar em Desenvolvimento Mobile com tecnologia híbrida (React Native)
+  - Prentendo entrar na área como Desenvolvedor Mobile com React Native e me especializar posteriormente com Swift para desenvolvimento nativo
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
