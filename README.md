@@ -15,7 +15,8 @@
 
  <div>
   <a href="https://github.com/flavioaugusto1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavioaugusto1&layout=compact&langs_count=16&theme=tokyonight"/>
+  <p><img align="left" style="margin-left: 15px; margin-right: 15px; margin-bottom: 25px" src="https://github-readme-stats.vercel.app/api/top-langs?username=flavioaugusto1&show_icons=true&theme=dark&hide_border=true&locale=pt-br&layout=compact" alt="flavioaugusto1" /></p>
+  <p><img align="left" style="margin-left: 15px; margin-right: 15px; margin-bottom: 25px" src="https://github-readme-stats.vercel.app/api?username=flavioaugusto1&show_icons=true&theme=dark&hide_border=true&locale=pt-br" alt="flavioaugusto1" /></p>
 </div>
  
   
