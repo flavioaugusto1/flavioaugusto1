@@ -3,10 +3,8 @@
 <h3 align="left" style="margin-bottom: 15px; margin-top: 35px">🧑‍💻 Sobre mim:</h3>
  
   - Hoje trabalho como Analista de Suporte Computacional para uma empresa de atendimento Omnichannel
-  
-  - Estou estudando React Native com TypeScript
-  
-  - Pretendo entrar na área como Desenvolvedor Mobile com React Native e me especializar posteriormente com Swift para desenvolvimento nativo.
+  - Estou estudando React
+  - Pretendo entrar na área como Desenvolvedor Front-End.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
