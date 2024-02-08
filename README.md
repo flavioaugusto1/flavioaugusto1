@@ -2,8 +2,8 @@
 
 <h3 align="left" style="margin-bottom: 15px; margin-top: 35px">🧑‍💻 Sobre mim:</h3>
  
-  - Hoje trabalho como Analista de Suporte Computacional para uma empresa de atendimento Omnichannel
-  - Estou estudando React
+  - Hoje trabalho como Analista de Suporte Pleno
+  - Atualmente estou estudando React, TypeScript, Tailwind CSS e Next.js
   - Pretendo entrar na área como Desenvolvedor Front-End.
 
 <div style="display: inline_block"><br>
