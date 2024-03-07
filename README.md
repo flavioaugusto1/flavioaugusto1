@@ -5,7 +5,10 @@
   - Hoje trabalho como Analista de Suporte Pleno
   - Atualmente estou estudando React, TypeScript, Tailwind CSS e Next.js
   - Pretendo entrar na área como Desenvolvedor Front-End.
-  - Meu portfolio: [Portfolio](https://flavioaugusto.netlify.app/)
+
+ <div>
+  <span>Acesso para meu portfolio: </span><a href="https://flavioaugusto.netlify.app/" target="_blank">Portolio</a>
+ </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
