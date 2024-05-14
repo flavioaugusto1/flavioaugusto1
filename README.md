@@ -33,9 +33,9 @@
 <h3 align="right">Contato:</h3>
 
 <p align="right">
- &ensp;<a href="https://www.linkedin.com/in/flavio-augusto1/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="julianasalafia" height="25" width="25" /></a>
- &ensp;<a href="https://www.instagram.com/flavio.sdn/" target="blank"><img align="center" src="https://www.pngmart.com/files/21/Instagram-Logo-PNG-File.png" alt="0xff1493" height="25" width="25" /></a>
- &ensp;<a href="https://twitter.com/flavinsdn" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="0xff1493" height="25" width="25" /></a>
+ &ensp;<a href="https://www.linkedin.com/in/flavio-augusto1/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/145/145807.png" alt="julianasalafia" height="25" width="25" /></a>
+ &ensp;<a href="https://www.instagram.com/flavio.sdn/" target="_blank"><img align="center" src="https://www.pngmart.com/files/21/Instagram-Logo-PNG-File.png" alt="0xff1493" height="25" width="25" /></a>
+ &ensp;<a href="https://twitter.com/flavinsdn" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" alt="0xff1493" height="25" width="25" /></a>
 </p>
 
 
