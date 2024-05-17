@@ -26,7 +26,12 @@
  
 ---
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flavioaugusto1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
+<div align="center">
+  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flavioaugusto1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=flavioaugusto1&show_icons=true&theme=dracula&hide_border=true&locale=pt-br&layout=compact)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
