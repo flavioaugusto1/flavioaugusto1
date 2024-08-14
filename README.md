@@ -2,9 +2,9 @@
 
 - 🐱‍👤 Atualmente sou técnico de suporte
   
-- 🌱 Atualmente estou estudando Dart e Flutter
+- 🌱 Atualmente estou estudando Node.Js
   
-- 🔭 Pretendo entrar na área como Desenvolvedor Mobile.
+- 🔭 Pretendo entrar na área como Desenvolvedor Back-end.
   
 - ⚡ Meu portfolio: [Portfolio](https://flavioaugusto.netlify.app/)
 
