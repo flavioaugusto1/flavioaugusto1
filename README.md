@@ -1,8 +1,8 @@
 <h1>Olá, eu sou o Flávio Augusto! 👋</h1>
 
-- 🐱‍👤 Atualmente sou técnico de suporte
+- 🐱‍👤 Atualmente sou analista de qualidade
   
-- 🌱 Atualmente estou estudando Node.Js
+- 🌱 Atualmente estou estudando Java
   
 - 🔭 Pretendo entrar na área como Desenvolvedor Back-end.
   
