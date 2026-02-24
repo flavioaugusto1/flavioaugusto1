@@ -10,10 +10,6 @@
 
 ---
 
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[![trophy](https://github-profile-trophy.vercel.app/?username=flavioaugusto1&theme=dracula&margin-w=12&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
  <p align="center">
  <a href="https://www.w3schools.com/js/default.asp" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/></a>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60" height="60" />
@@ -32,7 +28,6 @@
 <div align="center">
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=flavioaugusto1&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=flavioaugusto1&show_icons=true&theme=dracula&hide_border=true&locale=pt-br&layout=compact)](https://git.io/streak-stats)
 
 </div>
 
